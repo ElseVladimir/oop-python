@@ -48,4 +48,3 @@ while True:
     elif len(team2) == 10:
         print("Герой 2 победил")
         break
-
