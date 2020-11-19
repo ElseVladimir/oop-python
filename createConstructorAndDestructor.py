@@ -23,6 +23,4 @@ print(employee2.information())
 print(employee3.information())
 
 del()
-input()
-
 
